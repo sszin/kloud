@@ -50,7 +50,7 @@ header nav ul li a.active{color: #fff;border-bottom:1px solid #fff;}
   background-size: cover;
 }
 .ad2{
-  background: #4c3d3a url(../real/fir-2.png) no-repeat center;
+  background: #4c3d3a url(../real/fir-2.PNG) no-repeat center;
   background-size: cover;
 }
 /* 클라우드 소개 */
@@ -127,7 +127,7 @@ header nav ul li a.active{color: #fff;border-bottom:1px solid #fff;}
   content: '';
   display: inline-block;
   width: 50px;
-  background-image: url(../real/instagram.png);
+  background-image: url(../real/Instagram.PNG);
   height: 50px;
   background-size: contain;
   vertical-align: middle;
